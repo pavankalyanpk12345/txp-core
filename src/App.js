@@ -7,6 +7,6 @@ function App(){
     <div className="appp">
       <Index12/>
          </div>
-  );
+  );llvc
 }
 export default App;
